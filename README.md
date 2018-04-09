@@ -13,3 +13,7 @@
 ## 1.
 ![](https://github.com/greensberg/hw6/blob/master/question.PNG)
 ## 2. 
+![](https://github.com/greensberg/hw6/blob/master/choose%20pick.PNG)
++ С дополнением "spot" могут употребляться оба глагола.
++ С дополнением "option" может употребляться только глагол "choose".
++ С дополнением "apple" может употребляться только глагол "pick".
